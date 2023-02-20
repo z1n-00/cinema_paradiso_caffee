@@ -1,7 +1,7 @@
 ### Cinema Paradiso Caffee With Admin Panel (DataBase Access) (--version --2.1)
 
-    Cinema paradiso, a web app for cofee shop, is built with pure PHP.
-    In this version, owners of coffee shop can access the menus from the admin panel. They can create, update and delete menus in daily life and admin accounts too. And also they can see total numbers of both menu items list and admin accounts.
+Cinema paradiso, a web app for cofee shop, is built with pure PHP.
+In this version, owners of coffee shop can access the menus from the admin panel. They can create, update and delete menus in daily life and admin accounts too. And also they can see total numbers of both menu items list and admin accounts.
 
 
 ### Home Design in PC View
