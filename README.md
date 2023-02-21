@@ -79,7 +79,7 @@ In this version, owners of coffee shop can access the menus from the admin panel
 ### Menu Edit and Menu Delete in PC View
 ![editmenu](https://user-images.githubusercontent.com/69867926/220125814-93ca77ca-3e7c-420d-8965-a35b05e28824.png)
 
-![deletemenu](https://user-images.githubusercontent.com/69867926/220125873-ec1762ed-adcf-4f06-8263-28bfc4f81e7f.png)
+![deletemenu](https://user-images.githubusercontent.com/69867926/220231134-32d97752-f036-4f50-b7bf-aef0908b7a50.png)
         
 
 ### Menu Edit and Menu Delete in Mobile View
