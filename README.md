@@ -104,7 +104,7 @@ In this version, owners of coffee shop can access the menus from the admin panel
     CRUD Menus and User Accounts
     Admin Dashboard
     Cross Platform
-    PSR-4 Naming Conversion
+    PSR-4 Naming Convention
 
 
 # License
